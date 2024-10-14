@@ -29,7 +29,7 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
-![et](https://github.com/user-attachments/assets/7d579af7-185e-4caa-a47d-a090ab2fcea6)
+![eth](https://github.com/user-attachments/assets/5698607e-ae25-43d3-9093-b1010ab11db3)
 
 
 ## dsniff:
